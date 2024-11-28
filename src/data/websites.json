@@ -1,0 +1,20 @@
+{
+  "websites": [
+    {
+      "id": 1,
+      "teamName": "Team Innovators",
+      "liveUrl": "https://www.dayshmookh.com",
+      "members": [
+        { "name": "Krush Sir ", "email": "krushn@nstsdc.org" }
+      ]
+    },
+    {
+      "id": 3,
+      "teamName": "Web Warriors",
+      "liveUrl": "https://portfolio.aryanvbw.live",
+      "members": [
+        { "name": "vivek", "email": "vivek@nstsdc.org" }
+      ]
+    }
+  ]
+}
