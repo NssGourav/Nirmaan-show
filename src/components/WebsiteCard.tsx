@@ -3,22 +3,49 @@ import { ExternalLink } from 'lucide-react';
 import { motion } from 'framer-motion';
 import { Website } from '../types';
 import { LivePreview } from './LivePreview';
+import { WinnerBadge } from './WinnerBadge';
 
 interface WebsiteCardProps {
   website: Website;
   index: number;
+  place?: number;
 }
 
-export function WebsiteCard({ website, index }: WebsiteCardProps) {
+export function WebsiteCard({ website, index, place }: WebsiteCardProps) {
+  const isWinner = place && place <= 3;
+  
   return (
     <motion.div
       initial={{ opacity: 0, y: 20 }}
       animate={{ opacity: 1, y: 0 }}
       transition={{ delay: index * 0.1 }}
       whileHover={{ y: -5 }}
-      className="bg-white rounded-xl shadow-lg overflow-hidden transform transition-all duration-300 hover:shadow-2xl"
+      className={`relative bg-white rounded-xl shadow-lg overflow-hidden transform transition-all duration-300 hover:shadow-2xl ${
+        isWinner ? 'ring-2 ring-offset-2 ' + (
+          place === 1 ? 'ring-yellow-400' :
+          place === 2 ? 'ring-gray-400' :
+          'ring-amber-600'
+        ) : ''
+      }`}
     >
-      <LivePreview url={website.liveUrl} title={website.teamName} />
+      {isWinner && <WinnerBadge place={place} />}
+      
+      <div className="group relative">
+        <LivePreview url={website.liveUrl} title={website.teamName} />
+        <motion.a
+          href={website.liveUrl}
+          target="_blank"
+          rel="noopener noreferrer"
+          className="absolute inset-0 flex items-center justify-center bg-black/0 group-hover:bg-black/40 transition-colors"
+          whileHover={{ scale: 1.02 }}
+        >
+          <span className="opacity-0 group-hover:opacity-100 transition-opacity bg-white text-gray-900 px-4 py-2 rounded-full flex items-center gap-2 font-medium">
+            <ExternalLink size={16} />
+            Visit Website
+          </span>
+        </motion.a>
+      </div>
+
       <div className="p-6">
         <h3 className="text-xl font-bold text-gray-900 mb-2">{website.teamName}</h3>
         <div className="space-y-2 mb-4">
@@ -36,17 +63,6 @@ export function WebsiteCard({ website, index }: WebsiteCardProps) {
             </motion.div>
           ))}
         </div>
-        <motion.a
-          href={website.liveUrl}
-          target="_blank"
-          rel="noopener noreferrer"
-          className="inline-flex items-center gap-2 px-4 py-2 bg-gradient-to-r from-blue-600 to-purple-600 text-white rounded-md hover:from-blue-700 hover:to-purple-700 transition-all"
-          whileHover={{ scale: 1.05 }}
-          whileTap={{ scale: 0.95 }}
-        >
-          Visit Site
-          <ExternalLink size={16} />
-        </motion.a>
       </div>
     </motion.div>
   );

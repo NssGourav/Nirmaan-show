@@ -3,17 +3,19 @@
     {
       "id": 1,
       "teamName": "Team Innovators",
-      "liveUrl": "https://www.dayshmookh.com",
+      "liveUrl": "",
       "members": [
-        { "name": "Krush Sir ", "email": "krushn@nstsdc.org" }
+        { "name": "ansh Kumar", "email": "" },
+        { "name": "vivek", "email": "" }
       ]
     },
     {
-      "id": 3,
-      "teamName": "Web Warriors",
-      "liveUrl": "https://portfolio.aryanvbw.live",
+      "id": 5,
+      "teamName": "Tech Titans",
+      "liveUrl": "",
       "members": [
-        { "name": "vivek", "email": "vivek@nstsdc.org" }
+        { "name": "", "email": "" },
+        { "name": "", "email": "" }
       ]
     }
   ]
