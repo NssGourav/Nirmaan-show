@@ -3,7 +3,7 @@
     {
       "id": 1,
       "teamName": "Team Innovators",
-      "liveUrl": "",
+      "liveUrl": "https://nirmaan-show.vercel.app",
       "members": [
         { "name": "ansh Kumar", "email": "" },
         { "name": "vivek", "email": "" }
@@ -12,7 +12,7 @@
     {
       "id": 5,
       "teamName": "Tech Titans",
-      "liveUrl": "",
+      "liveUrl": "https://nirmaan.aryanvbw.live",
       "members": [
         { "name": "", "email": "" },
         { "name": "", "email": "" }
