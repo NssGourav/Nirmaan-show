@@ -24,7 +24,7 @@ This project consists of two separate repositories:
 ### Local Development Setup
 # Clone the repositories
 ```bash
-git clone https://github.com/your-username/Nirmaan-show.git
+git clone https://github.com/nst-sdc/Nirmaan-show.git
 git clone https://github.com/nst-sdc/NIRMAN-SUBMission-of-NST-ADYPU.git
 ```
 
