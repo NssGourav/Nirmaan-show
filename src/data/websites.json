@@ -1,0 +1,978 @@
+{
+  "websites": [
+    {
+      "id": 1,
+      "teamName": "shastra",
+      "liveUrl": "https://nst-sdc.github.io/NIRMAN-SUBMission-of-NST-ADYPU/shastra",
+      "members": [
+        {
+          "name": "vansh",
+          "email": "vanshdagar2005@gmail.com"
+        },
+        {
+          "name": "Manish Balayan",
+          "email": "manishbalayan2713@gmail.com"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "teamName": "3 Pixels",
+      "liveUrl": "https://nst-sdc.github.io/NIRMAN-SUBMission-of-NST-ADYPU/3 Pixels",
+      "members": [
+        {
+          "name": "Pratik Kumar Pan",
+          "email": "pratik.pan@adypu.edu.in"
+        },
+        {
+          "name": "Adarsh Priydarshi",
+          "email": "adarsh.priydarshi01@adypu.edu.in"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "teamName": "404 Found",
+      "liveUrl": "https://nst-sdc.github.io/NIRMAN-SUBMission-of-NST-ADYPU/404 Found",
+      "members": [
+        {
+          "name": "Yash Shriram Lahase",
+          "email": "yash.lahase@adypu.edu.in"
+        },
+        {
+          "name": "Garv Gogna",
+          "email": "garv.gogna@adypu.edu.in"
+        },
+        {
+          "name": "Sudip Kumar Prasad",
+          "email": "sudip.prasad@adypu.edu.in"
+        },
+        {
+          "name": "Harsil singh",
+          "email": "harsil.singh@adypu.edu.in"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "teamName": "Web Trackers",
+      "liveUrl": "https://nst-sdc.github.io/NIRMAN-SUBMission-of-NST-ADYPU/Web Trackers",
+      "members": [
+        {
+          "name": "AN Pavan Sai",
+          "email": "an.pavan@adypu.edu.in"
+        },
+        {
+          "name": "Bejadi Sai Rithwik",
+          "email": "sai.rithwik@adypu.edu.in"
+        },
+        {
+          "name": "Vishnu Kasireddy",
+          "email": "vishnu.k@adypu.edu.in"
+        },
+        {
+          "name": "Patel Parth Kumar",
+          "email": "patel.parthkumar@adypu.edu.in"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "teamName": "Trainees",
+      "liveUrl": "https://nst-sdc.github.io/NIRMAN-SUBMission-of-NST-ADYPU/Trainees",
+      "members": [
+        {
+          "name": "Om Gupta",
+          "email": "om.gupta@adypu.edu.in"
+        },
+        {
+          "name": "Ansh Sharma",
+          "email": "ansh.sharma@adypu.edu.in"
+        },
+        {
+          "name": "Aditi",
+          "email": "Aditi.K@adypu.edu.in"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "teamName": "After Hours",
+      "liveUrl": "https://nst-sdc.github.io/NIRMAN-SUBMission-of-NST-ADYPU/After Hours",
+      "members": [
+        {
+          "name": "Harshit Agrawal",
+          "email": "harshit.agrawal@adypu.edu.in"
+        },
+        {
+          "name": "Harshit Gupta",
+          "email": "harshit.k@adypu.edu.in"
+        },
+        {
+          "name": "Rounit Kumar Singh",
+          "email": "rounit.singh@adypu.edu.in"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "teamName": "Dall-E4",
+      "liveUrl": "https://nst-sdc.github.io/NIRMAN-SUBMission-of-NST-ADYPU/Dall-E4",
+      "members": [
+        {
+          "name": "Shubh Arya",
+          "email": "shubh.arya@adypu.edu.in"
+        },
+        {
+          "name": "Shreyas Sarkar",
+          "email": "shreyas.sarkar@adypu.edu.in"
+        },
+        {
+          "name": "Aditya Singh",
+          "email": "aditya.singh01@adypu.edu.in"
+        },
+        {
+          "name": "Priyank Gaur",
+          "email": "priyank.gaur@adypu.edu.in"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "teamName": "Alpha Team",
+      "liveUrl": "https://nst-sdc.github.io/NIRMAN-SUBMission-of-NST-ADYPU/Alpha Team",
+      "members": [
+        {
+          "name": "Yashveer Singh",
+          "email": "astomar6396@gmail.com"
+        },
+        {
+          "name": "Amrit Kumar Mahto",
+          "email": "amrit.mahto@adypu.edu.in"
+        },
+        {
+          "name": "Bhavana Talkute",
+          "email": "bhavana.talkute@adypu.edu.in"
+        },
+        {
+          "name": "Nakul Sharma",
+          "email": "nakul.sharma@adypu.edu.in"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "teamName": "Nebula",
+      "liveUrl": "https://nst-sdc.github.io/NIRMAN-SUBMission-of-NST-ADYPU/Nebula",
+      "members": [
+        {
+          "name": "Hirdyansh Kumar",
+          "email": "hirdyansh.kumar@adypu.edu.in"
+        },
+        {
+          "name": "Aryan Sahu",
+          "email": "aaryan.sahu@adypu.edu.in"
+        },
+        {
+          "name": "Archisman Nath Choudhury",
+          "email": "archisman.choudhury@adypu.edu.in"
+        },
+        {
+          "name": "Pranay Chitare",
+          "email": "pranay.chitare@adypu.edu.in"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "teamName": "Berserk",
+      "liveUrl": "https://nst-sdc.github.io/NIRMAN-SUBMission-of-NST-ADYPU/Berserk",
+      "members": [
+        {
+          "name": "Ved Bhadani",
+          "email": "ved.bhadani@adypu.edu.in"
+        },
+        {
+          "name": "Ayush Anand",
+          "email": "ayush.anand@adypu.edu.in"
+        },
+        {
+          "name": "Ankit Singh",
+          "email": "ankit.singh01@adypu.edu.in"
+        },
+        {
+          "name": "Arkapravo Rajkonwar",
+          "email": "arkapravo.rajkonwar@adypu.edu.in"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "teamName": "AltElite",
+      "liveUrl": "https://nst-sdc.github.io/NIRMAN-SUBMission-of-NST-ADYPU/AltElite",
+      "members": [
+        {
+          "name": "Akanksha Sharma",
+          "email": "akanksha.k@adypu.edu.in"
+        },
+        {
+          "name": "Anishka Khurana",
+          "email": "anishka.khurana@adypu.edu.in"
+        },
+        {
+          "name": "sahil KHan",
+          "email": "skhantis05@gmail.com"
+        },
+        {
+          "name": "tanishq sarawgi",
+          "email": "tansihq.sarawgi@adypu.edu.in"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "teamName": "chetan",
+      "liveUrl": "https://nst-sdc.github.io/NIRMAN-SUBMission-of-NST-ADYPU/chetan",
+      "members": [
+        {
+          "name": "chetan khulage",
+          "email": "chetankhulage.dev@gmail.com"
+        },
+        {
+          "name": "abhishke nale",
+          "email": "abhisheknale1709@gmail.com"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "teamName": "WEBWORKS",
+      "liveUrl": "https://nst-sdc.github.io/NIRMAN-SUBMission-of-NST-ADYPU/WEBWORKS",
+      "members": [
+        {
+          "name": "Karan Rawat",
+          "email": "karan.rawat@adypu.edu.in"
+        },
+        {
+          "name": "Shubhanshu dubey",
+          "email": "shubhanshu.dubey@adypu.edu.in"
+        },
+        {
+          "name": "Amanjeet",
+          "email": "amanjeet.k@adypu.edu.in"
+        },
+        {
+          "name": "om mishra",
+          "email": "om.mishra@adypu.edu.in"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "teamName": "SystemHang",
+      "liveUrl": "https://nst-sdc.github.io/NIRMAN-SUBMission-of-NST-ADYPU/SystemHang",
+      "members": [
+        {
+          "name": "Gayatri Jaiswal",
+          "email": "gayatri.jaiswal@adypu.edu.in"
+        },
+        {
+          "name": "Kumar Manak",
+          "email": "kumar.manak@adypu.edu.in"
+        },
+        {
+          "name": "ashu choudhary",
+          "email": "thisisashuchoudhary@gmail.com"
+        },
+        {
+          "name": "pushkar sharma",
+          "email": "pushkar.sharma@adypu.edu.in"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "teamName": "Team Error",
+      "liveUrl": "https://nst-sdc.github.io/NIRMAN-SUBMission-of-NST-ADYPU/Team Error",
+      "members": [
+        {
+          "name": "Krish Patil",
+          "email": "krishpatil120@gmail.com"
+        },
+        {
+          "name": "Mridul R",
+          "email": "iammridul012@gmail.com"
+        },
+        {
+          "name": "Anurag Singh Parihar",
+          "email": "anurag.parihar@adypu.edu.in"
+        },
+        {
+          "name": "Rohit Dahiya",
+          "email": "rohit.dahiya@adypu.edu.in"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "teamName": "Team Rocket",
+      "liveUrl": "https://nst-sdc.github.io/NIRMAN-SUBMission-of-NST-ADYPU/Team Rocket",
+      "members": [
+        {
+          "name": "Yash Pratap Singh Solanki",
+          "email": "yashpratap.solanki@adypu.edu.in"
+        },
+        {
+          "name": "Himanshu mishra",
+          "email": "himanshu.mishra@adypu.edu.in"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "teamName": "Chilli Flakes",
+      "liveUrl": "https://nst-sdc.github.io/NIRMAN-SUBMission-of-NST-ADYPU/Chilli Flakes",
+      "members": [
+        {
+          "name": "Sandesh Lendve",
+          "email": "Sandesh.Lendve@adypu.edu.in"
+        },
+        {
+          "name": "Shorya Taneja",
+          "email": "shorya.taneja@adypu.edu.in"
+        },
+        {
+          "name": "Ansh Baheti",
+          "email": "Ansh.Baheti@adypu.edu.in"
+        },
+        {
+          "name": "Jatin Bisen",
+          "email": "JATIN.BISEN@adypu.edu.in"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "teamName": "THE END",
+      "liveUrl": "https://nst-sdc.github.io/NIRMAN-SUBMission-of-NST-ADYPU/THE END",
+      "members": [
+        {
+          "name": "Aashish Jha",
+          "email": "aashish.jha@adypu.edu.in"
+        },
+        {
+          "name": "Ansh Kumar",
+          "email": "ansh.kumar@adypu.edu.in"
+        },
+        {
+          "name": "Subham Sangwan",
+          "email": "subham.sangwan@adypu.edu.in"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "teamName": "WebWhiz",
+      "liveUrl": "https://nst-sdc.github.io/NIRMAN-SUBMission-of-NST-ADYPU/WebWhiz",
+      "members": [
+        {
+          "name": "Ashvin Tiwari",
+          "email": "ashvintiwari161@gmail.com"
+        },
+        {
+          "name": "Meet Ramatri",
+          "email": "meet.ramatri@adypu.edu.in"
+        },
+        {
+          "name": "Oashe Mehta",
+          "email": "mehtaoashe2006@gmail.com"
+        },
+        {
+          "name": "Anurag singh Tomar",
+          "email": "anurag.tomar@adypu.edu.in"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "teamName": "PARAKRAM",
+      "liveUrl": "https://nst-sdc.github.io/NIRMAN-SUBMission-of-NST-ADYPU/PARAKRAM",
+      "members": [
+        {
+          "name": "BHAVISH DHAR",
+          "email": "bhavish.dhar@edypu.edeu.in"
+        },
+        {
+          "name": "KHYATI KAPIL",
+          "email": "khyati.kapil@adypu.edu.in"
+        },
+        {
+          "name": "Shubhi kumari",
+          "email": "shubhi.kumari01@adypu.edu.in"
+        },
+        {
+          "name": "ABHISHEK VARMA",
+          "email": "abhishek.varma@adypu.edu.in"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "teamName": "Dev Strom",
+      "liveUrl": "https://nst-sdc.github.io/NIRMAN-SUBMission-of-NST-ADYPU/Dev Strom",
+      "members": [
+        {
+          "name": "Aaditya mohan samadhiya",
+          "email": "aaditya.samadhiya11@gmail.com"
+        },
+        {
+          "name": "Rishi Seth",
+          "email": "sethrishi28@gmail.com"
+        },
+        {
+          "name": "Sunny Singh",
+          "email": "sunnysingh54910@gmail.com"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "teamName": "Sath",
+      "liveUrl": "https://nst-sdc.github.io/NIRMAN-SUBMission-of-NST-ADYPU/Sath",
+      "members": [
+        {
+          "name": "Aditya Chopra",
+          "email": "nytc120605@gmail.com"
+        },
+        {
+          "name": "Harsh Patel",
+          "email": "hp1659414@gmail.com"
+        },
+        {
+          "name": "Yash Kumar Sharma",
+          "email": "yash.sharma@adypu.edu.in"
+        },
+        {
+          "name": "Aniruddh Sharma",
+          "email": "aniruddh.sharma@adypu.edu.in"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "teamName": "JEDIS",
+      "liveUrl": "https://nst-sdc.github.io/NIRMAN-SUBMission-of-NST-ADYPU/JEDIS",
+      "members": [
+        {
+          "name": "Priyabrata Singh",
+          "email": "priyabrata.singh@adypu.edu.in"
+        },
+        {
+          "name": "Saad Arqam",
+          "email": "saad.arqam@adypu.edu.in"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "teamName": "ping999",
+      "liveUrl": "https://nst-sdc.github.io/NIRMAN-SUBMission-of-NST-ADYPU/ping999",
+      "members": [
+        {
+          "name": "vidhit T S",
+          "email": "vidhitts@icloud.com"
+        },
+        {
+          "name": "padam rathi",
+          "email": "padamrathi01@gmail.com"
+        },
+        {
+          "name": "sameer pawar",
+          "email": "sameer787pawar@gmail.com"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "teamName": "Aura99+",
+      "liveUrl": "https://nst-sdc.github.io/NIRMAN-SUBMission-of-NST-ADYPU/Aura99+",
+      "members": [
+        {
+          "name": "Uzair Ahmed Shah",
+          "email": "uzair.shah@adypu.edu.in"
+        },
+        {
+          "name": "Raman Pandey",
+          "email": "raman.pandey@adypu.edu.in"
+        },
+        {
+          "name": "Jagadish Patil",
+          "email": "jagadish.patil@adypu.edu.i"
+        },
+        {
+          "name": "Manthan Ziman",
+          "email": "manthan.ziman@adypu.edu.in"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "teamName": "websters",
+      "liveUrl": "https://nst-sdc.github.io/NIRMAN-SUBMission-of-NST-ADYPU/websters",
+      "members": [
+        {
+          "name": "Tanush Kumar",
+          "email": "tanushkumar777@gmail.com"
+        },
+        {
+          "name": "Sanjana",
+          "email": "sanju250506@gmail.com"
+        },
+        {
+          "name": "Sushant Kumar Ojha",
+          "email": "timmyojha@gmail.com"
+        },
+        {
+          "name": "Bharat Singh",
+          "email": "bharatsinghr2004@gmail.com"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "teamName": "The Debuggers",
+      "liveUrl": "https://nst-sdc.github.io/NIRMAN-SUBMission-of-NST-ADYPU/The Debuggers",
+      "members": [
+        {
+          "name": "Aditya Mishra",
+          "email": "aditya.mishra@adypu.edu.in"
+        },
+        {
+          "name": "Aman Kumar",
+          "email": "aman.kumar01@adypu.edu.in"
+        },
+        {
+          "name": "Shalini Saloni",
+          "email": "shalini.saloni@adypu.edu.in"
+        },
+        {
+          "name": "Divyanjali",
+          "email": "gopisetty.divyanjali@adypu.edu.in"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "teamName": "SteelX",
+      "liveUrl": "https://nst-sdc.github.io/NIRMAN-SUBMission-of-NST-ADYPU/SteelX",
+      "members": [
+        {
+          "name": "Dhiraj Pandit",
+          "email": "dhirajpandit5050@gmail.com"
+        },
+        {
+          "name": "Saurav Kumar",
+          "email": "saurav.kumar@adypu.edu.in"
+        },
+        {
+          "name": "Arnav Kumar",
+          "email": "arnav.kumar@adypu.edu.in"
+        },
+        {
+          "name": "Yogesh Kumar",
+          "email": "yogesh.kumar@adypu.edu.in"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "teamName": "Front-end Force",
+      "liveUrl": "https://nst-sdc.github.io/NIRMAN-SUBMission-of-NST-ADYPU/Front-end Force",
+      "members": [
+        {
+          "name": "Sneha Chepurwar",
+          "email": "snehachepurwar6@gmail.com"
+        },
+        {
+          "name": "karanam gnana priyanka",
+          "email": "priyankagnanak@gmail.com"
+        },
+        {
+          "name": "Gourav NSS",
+          "email": "nss.gourav@adypu.edu.in"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "teamName": "Code Crusaders",
+      "liveUrl": "https://nst-sdc.github.io/NIRMAN-SUBMission-of-NST-ADYPU/Code Crusaders",
+      "members": [
+        {
+          "name": "Dhruv Sareen",
+          "email": "dhruv.sareen@adypu.edu.in"
+        },
+        {
+          "name": "Nitin Sahu",
+          "email": "nitin.sahu@adypu.edu.in"
+        },
+        {
+          "name": "Vaibhav Singh",
+          "email": "vaibhav.singh01@adypu.edu.in"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "teamName": "Site Solution",
+      "liveUrl": "https://nst-sdc.github.io/NIRMAN-SUBMission-of-NST-ADYPU/Site Solution",
+      "members": [
+        {
+          "name": "Tanima Samanta",
+          "email": "Tanimasamanta59@gmail.com"
+        },
+        {
+          "name": "Swarnim Balpande",
+          "email": "swarnim.balpande@adypu.edu.in"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "teamName": "HackDev",
+      "liveUrl": "https://nst-sdc.github.io/NIRMAN-SUBMission-of-NST-ADYPU/HackDev",
+      "members": [
+        {
+          "name": "Harsh Hirawat",
+          "email": "harsh.hirawat@adypu.edu.in"
+        },
+        {
+          "name": "Krit Garg",
+          "email": "krit.garg01@adypu.edu.in"
+        },
+        {
+          "name": "Pushkar Gupta",
+          "email": "pushkar.gupta@adypu.edu.in"
+        },
+        {
+          "name": "Punar Vashu",
+          "email": "punar.vashu@adypu.edu.in"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "teamName": "Buildcoders",
+      "liveUrl": "https://nst-sdc.github.io/NIRMAN-SUBMission-of-NST-ADYPU/Buildcoders",
+      "members": [
+        {
+          "name": "Adarsh Vardhan Shukla",
+          "email": "adarshvardhan.shukla@adypu.edu.in"
+        },
+        {
+          "name": "Tushar Verma",
+          "email": "tushar.verma@adypu.edu.in"
+        },
+        {
+          "name": "sahil Singh",
+          "email": "sahil.k@adypu.edu.in"
+        },
+        {
+          "name": "Ananya Pandey",
+          "email": "ananya.pandey@adypu.edu.in"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "teamName": "pencoders",
+      "liveUrl": "https://nst-sdc.github.io/NIRMAN-SUBMission-of-NST-ADYPU/pencoders",
+      "members": [
+        {
+          "name": "Aditya Sinha",
+          "email": "aditya.sinha@adypu.edu.in"
+        },
+        {
+          "name": "Progyan Sen",
+          "email": "progyan.sen@adypu.edu.in"
+        },
+        {
+          "name": "Naman Gupta",
+          "email": "naman.gupta@adypu.edu.in"
+        },
+        {
+          "name": "Ganesh Wayal",
+          "email": "ganesh.wayal@adypu.edu.in"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "teamName": "ZUCK",
+      "liveUrl": "https://nst-sdc.github.io/NIRMAN-SUBMission-of-NST-ADYPU/ZUCK",
+      "members": [
+        {
+          "name": "Subhan Kumar Rai",
+          "email": "subhan.rai@adypu.edu.in"
+        },
+        {
+          "name": "Krish Amit Modi",
+          "email": "Krish.modi@adypu.edu.in"
+        },
+        {
+          "name": "Soham Saranga",
+          "email": "Soham.saranga@adypu.edu.in"
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "teamName": "Bankai",
+      "liveUrl": "https://nst-sdc.github.io/NIRMAN-SUBMission-of-NST-ADYPU/Bankai",
+      "members": [
+        {
+          "name": "Parth Tandalwade",
+          "email": "parth.k@adypu.edu.in"
+        },
+        {
+          "name": "Manmath Mohanty",
+          "email": "manmath.mohanty@adypu.edu.in"
+        },
+        {
+          "name": "Vansh Singhal",
+          "email": "vansh.singhal@adypu.edu.in"
+        },
+        {
+          "name": "Hemant Yadav",
+          "email": "hemant.k@adypu.edu.in"
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "teamName": "Git it Together",
+      "liveUrl": "https://nst-sdc.github.io/NIRMAN-SUBMission-of-NST-ADYPU/Git it Together",
+      "members": [
+        {
+          "name": "Kantrol Vamshi Krishna Rao",
+          "email": "kantrolvamshikrishnarao@gmail.com"
+        },
+        {
+          "name": "Mahi Sawner",
+          "email": "mahisawner1234@gmail.com"
+        },
+        {
+          "name": "Chanakya Sinde",
+          "email": "chanakyasinde@gmail.com"
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "teamName": "Pixel_Perfect",
+      "liveUrl": "https://nst-sdc.github.io/NIRMAN-SUBMission-of-NST-ADYPU/Pixel_Perfect",
+      "members": [
+        {
+          "name": "Sravanth Varri",
+          "email": "sravanth.k@adypu.edu.in"
+        },
+        {
+          "name": "prem kumar",
+          "email": "pyla.prem@adypu.edu.in"
+        },
+        {
+          "name": "r sai praneeth sharma",
+          "email": "rs.praneeth@adypu.edu.in"
+        },
+        {
+          "name": "uday chowdary",
+          "email": "uday.choudhary@adypu.edu.in"
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "teamName": "tech trio",
+      "liveUrl": "https://nst-sdc.github.io/NIRMAN-SUBMission-of-NST-ADYPU/tech trio",
+      "members": [
+        {
+          "name": "vamshi pendalaya",
+          "email": "amiti.aneesh2@gmail.com"
+        },
+        {
+          "name": "amiti aneesh",
+          "email": "amiti.aneesh1@gmail.com"
+        },
+        {
+          "name": "lakshith achutha",
+          "email": "lakshith.achuta@gmail.com"
+        },
+        {
+          "name": "hariksh suryavanshi",
+          "email": "hariksh2007@gmail.com"
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "teamName": "GALVANIC MECHAMORPH",
+      "liveUrl": "https://nst-sdc.github.io/NIRMAN-SUBMission-of-NST-ADYPU/GALVANIC MECHAMORPH",
+      "members": [
+        {
+          "name": "AYUSH KUMAR SINGH",
+          "email": "ayush.kumar@adypu.edu.in"
+        },
+        {
+          "name": "Ambuj",
+          "email": "ayush.kumar@adypu.edu.in"
+        },
+        {
+          "name": "Nandan",
+          "email": "ayush.kumar@adypu.edu.in"
+        },
+        {
+          "name": "Mohit Kourav",
+          "email": "ayush.kumar@adypu.edu.in"
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "teamName": "Kyuuuuu!!!!!!!",
+      "liveUrl": "https://nst-sdc.github.io/NIRMAN-SUBMission-of-NST-ADYPU/Kyuuuuu!!!!!!!",
+      "members": [
+        {
+          "name": "Rudransh Gupta",
+          "email": "rudransh.gupta@adypu.edu.in"
+        },
+        {
+          "name": "Khush chaudhari",
+          "email": "khush.chaudhari@adypu.edu.in"
+        },
+        {
+          "name": "Tushar Kumar",
+          "email": "Tushar.kumar@adypu.edu.in"
+        },
+        {
+          "name": "Vansh Agarwal",
+          "email": "vansh.agarwal@adypu.edu.in"
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "teamName": "GenZ",
+      "liveUrl": "https://nst-sdc.github.io/NIRMAN-SUBMission-of-NST-ADYPU/GenZ",
+      "members": [
+        {
+          "name": "Devansh Saini",
+          "email": "devansh.saini@adypu.edu.in"
+        },
+        {
+          "name": "Harshit Singh",
+          "email": "harshit.singh@adypu.edu.in"
+        },
+        {
+          "name": "Ved Vadnere",
+          "email": "ved.vadnere@adypu.edu.in"
+        },
+        {
+          "name": "Shivansh Bhargava",
+          "email": "shivansh.bhargava@adypu.edu.in"
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "teamName": "THE NERD HERD",
+      "liveUrl": "https://nst-sdc.github.io/NIRMAN-SUBMission-of-NST-ADYPU/THE NERD HERD",
+      "members": [
+        {
+          "name": "pranav.bandaram@adypu.edu.in",
+          "email": "bandarampranav@gmail.com"
+        },
+        {
+          "name": "rohit",
+          "email": "rohit.nair@adypu.edu.in"
+        },
+        {
+          "name": "angelo",
+          "email": "angelo.nelson@adypu.edu.in"
+        },
+        {
+          "name": "sidhu",
+          "email": "sidhu.himigi@adypu.edu.in"
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "teamName": "Room_113",
+      "liveUrl": "https://nst-sdc.github.io/NIRMAN-SUBMission-of-NST-ADYPU/Room_113",
+      "members": [
+        {
+          "name": "Kshitij Saxena",
+          "email": "kshitij.saxena@adypu.edu.in"
+        },
+        {
+          "name": "Vinayak Singh",
+          "email": "vinayaksingh836@gmail.com"
+        },
+        {
+          "name": "Shivank Gupta",
+          "email": "guptashivu544@gmail.com"
+        },
+        {
+          "name": "Lomesh Sonkeshriya",
+          "email": "lomesh.sonkeshriya@adypu.edu.in"
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "teamName": "KAIM",
+      "liveUrl": "https://nst-sdc.github.io/NIRMAN-SUBMission-of-NST-ADYPU/KAIM",
+      "members": [
+        {
+          "name": "Ananya",
+          "email": "ananya.k@adypu.edu.in"
+        },
+        {
+          "name": "Mahek Motwani",
+          "email": "mahek.motwani@adypu.edu.in"
+        },
+        {
+          "name": "Ipshita Patel",
+          "email": "ipshita.patel@adypu.edu.in"
+        },
+        {
+          "name": "Krrish Taneja",
+          "email": "Krrish.taneja@adypu.edu.in"
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "teamName": "pencoders",
+      "liveUrl": "https://nst-sdc.github.io/NIRMAN-SUBMission-of-NST-ADYPU/pencoders",
+      "members": [
+        {
+          "name": "Aditya Sinha",
+          "email": "aditya.sinha@adypu.edu.in"
+        },
+        {
+          "name": "Progyan Sen",
+          "email": "progyan.sen@adypu.edu.in"
+        },
+        {
+          "name": "Ganesh Wayal",
+          "email": "ganesh.wayal@adypu.edu.in"
+        },
+        {
+          "name": "Naman Gupta",
+          "email": "naman.gupta@adypu.edu.in"
+        }
+      ]
+    }
+  ]
+}
