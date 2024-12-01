@@ -16,17 +16,22 @@ export function LivePreview({ url, title }: LivePreviewProps) {
 
   useEffect(() => {
     const updateScale = () => {
-      if (containerRef.current && iframeRef.current) {
+      if (containerRef.current) {
         const containerWidth = containerRef.current.offsetWidth;
-        const desiredWidth = 1920; // Standard desktop width
+        const desiredWidth = 1920;
         const newScale = containerWidth / desiredWidth;
         setScale(newScale);
       }
     };
 
-    updateScale();
-    window.addEventListener('resize', updateScale);
-    return () => window.removeEventListener('resize', updateScale);
+    const resizeObserver = new ResizeObserver(updateScale);
+    if (containerRef.current) {
+      resizeObserver.observe(containerRef.current);
+    }
+
+    return () => {
+      resizeObserver.disconnect();
+    };
   }, []);
 
   const handleLoad = () => {
@@ -40,7 +45,10 @@ export function LivePreview({ url, title }: LivePreviewProps) {
   };
 
   return (
-    <div ref={containerRef} className="aspect-video relative w-full overflow-hidden rounded-t-xl bg-gray-50">
+    <div 
+      ref={containerRef} 
+      className="aspect-video relative w-full overflow-hidden rounded-t-xl bg-gray-50"
+    >
       {isLoading && (
         <div className="absolute inset-0 flex items-center justify-center bg-gray-50">
           <Loader2 className="w-8 h-8 text-blue-500 animate-spin" />

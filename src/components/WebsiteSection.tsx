@@ -12,10 +12,12 @@ interface WebsiteSectionProps {
 
 export function WebsiteSection({ 
   title, 
-  websites, 
+  websites,
   startIndex = 0,
   showRank = false
 }: WebsiteSectionProps) {
+  if (!websites.length) return null;
+
   return (
     <motion.section
       initial={{ opacity: 0, y: 20 }}

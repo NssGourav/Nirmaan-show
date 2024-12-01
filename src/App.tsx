@@ -1,32 +1,21 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { WebsiteSection } from './components/WebsiteSection';
 import { AdminPanel } from './components/AdminPanel';
 import { Header } from './components/Header';
 import { Footer } from './components/Footer';
-import websiteData from './data/websites.json';
+import { useWebsites } from './hooks/useWebsites';
 import { Website } from './types';
-import { saveWebsites, loadWebsites } from './utils/storage';
 
 function App() {
-  const [websites, setWebsites] = useState<Website[]>([]);
   const [showAdmin, setShowAdmin] = useState(false);
-
-  useEffect(() => {
-    const savedWebsites = loadWebsites();
-    if (savedWebsites) {
-      setWebsites(savedWebsites);
-    } else {
-      setWebsites(websiteData.websites);
-      saveWebsites(websiteData.websites);
-    }
-  }, []);
+  const { websites, addWebsite } = useWebsites();
 
   const handleAddWebsite = (newWebsite: Omit<Website, 'id'>) => {
-    const id = Math.max(...websites.map(w => w.id), 0) + 1;
-    const updatedWebsites = [...websites, { ...newWebsite, id }];
-    setWebsites(updatedWebsites);
-    saveWebsites(updatedWebsites);
+    const success = addWebsite(newWebsite);
+    if (success) {
+      setShowAdmin(false);
+    }
   };
 
   const topThree = websites.slice(0, 3);
