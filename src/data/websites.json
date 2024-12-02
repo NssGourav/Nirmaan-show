@@ -25,16 +25,24 @@
     },
     {
       "id": 2,
-      "teamName": "3 Pixels",
-      "liveUrl": "https://nst-sdc.github.io/NIRMAN-SUBMission-of-NST-ADYPU/3 Pixels",
+      "teamName": "Bankai",
+      "liveUrl": "https://nst-sdc.github.io/NIRMAN-SUBMission-of-NST-ADYPU/Bankai",
       "members": [
         {
-          "name": "Pratik Kumar Pan",
-          "email": "pratik.pan@adypu.edu.in"
+          "name": "Parth Tandalwade",
+          "email": "parth.k@adypu.edu.in"
         },
         {
-          "name": "Adarsh Priydarshi",
-          "email": "adarsh.priydarshi01@adypu.edu.in"
+          "name": "Manmath Mohanty",
+          "email": "manmath.mohanty@adypu.edu.in"
+        },
+        {
+          "name": "Vansh Singhal",
+          "email": "vansh.singhal@adypu.edu.in"
+        },
+        {
+          "name": "Hemant Yadav",
+          "email": "hemant.k@adypu.edu.in"
         }
       ]
     },
@@ -727,24 +735,16 @@
     },
     {
       "id": 36,
-      "teamName": "Bankai",
-      "liveUrl": "https://nst-sdc.github.io/NIRMAN-SUBMission-of-NST-ADYPU/Bankai",
+      "teamName": "3 Pixels",
+      "liveUrl": "https://nst-sdc.github.io/NIRMAN-SUBMission-of-NST-ADYPU/3 Pixels",
       "members": [
         {
-          "name": "Parth Tandalwade",
-          "email": "parth.k@adypu.edu.in"
+          "name": "Pratik Kumar Pan",
+          "email": "pratik.pan@adypu.edu.in"
         },
         {
-          "name": "Manmath Mohanty",
-          "email": "manmath.mohanty@adypu.edu.in"
-        },
-        {
-          "name": "Vansh Singhal",
-          "email": "vansh.singhal@adypu.edu.in"
-        },
-        {
-          "name": "Hemant Yadav",
-          "email": "hemant.k@adypu.edu.in"
+          "name": "Adarsh Priydarshi",
+          "email": "adarsh.priydarshi01@adypu.edu.in"
         }
       ]
     },
