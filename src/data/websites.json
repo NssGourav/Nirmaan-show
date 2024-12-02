@@ -23,8 +23,23 @@
         }
       ]
     },
-    {
+     {
       "id": 2,
+      "teamName": "chetan",
+      "liveUrl": "https://team-chetan-nirmaan.vercel.app",
+      "members": [
+        {
+          "name": "chetan khulage",
+          "email": "chetankhulage.dev@gmail.com"
+        },
+        {
+          "name": "abhishke nale",
+          "email": "abhisheknale1709@gmail.com"
+        }
+      ]
+    },
+    {
+      "id": 3,
       "teamName": "Bankai",
       "liveUrl": "https://team-bankai.netlify.app",
       "members": [
@@ -46,29 +61,7 @@
         }
       ]
     },
-    {
-      "id": 3,
-      "teamName": "404 Found",
-      "liveUrl": "https://nst-sdc.github.io/NIRMAN-SUBMission-of-NST-ADYPU/404 Found",
-      "members": [
-        {
-          "name": "Yash Shriram Lahase",
-          "email": "yash.lahase@adypu.edu.in"
-        },
-        {
-          "name": "Garv Gogna",
-          "email": "garv.gogna@adypu.edu.in"
-        },
-        {
-          "name": "Sudip Kumar Prasad",
-          "email": "sudip.prasad@adypu.edu.in"
-        },
-        {
-          "name": "Harsil singh",
-          "email": "harsil.singh@adypu.edu.in"
-        }
-      ]
-    },
+    
     {
       "id": 4,
       "teamName": "Web Trackers",
@@ -247,16 +240,24 @@
     },
     {
       "id": 12,
-      "teamName": "chetan",
-      "liveUrl": "https://nst-sdc.github.io/NIRMAN-SUBMission-of-NST-ADYPU/chetan",
+      "teamName": "404 Found",
+      "liveUrl": "https://nst-sdc.github.io/NIRMAN-SUBMission-of-NST-ADYPU/404 Found",
       "members": [
         {
-          "name": "chetan khulage",
-          "email": "chetankhulage.dev@gmail.com"
+          "name": "Yash Shriram Lahase",
+          "email": "yash.lahase@adypu.edu.in"
         },
         {
-          "name": "abhishke nale",
-          "email": "abhisheknale1709@gmail.com"
+          "name": "Garv Gogna",
+          "email": "garv.gogna@adypu.edu.in"
+        },
+        {
+          "name": "Sudip Kumar Prasad",
+          "email": "sudip.prasad@adypu.edu.in"
+        },
+        {
+          "name": "Harsil singh",
+          "email": "harsil.singh@adypu.edu.in"
         }
       ]
     },
