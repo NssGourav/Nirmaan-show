@@ -1,17 +1,25 @@
 {
   "websites": [
     {
-      "id": 26,
-      "teamName": "shastra",
-      "liveUrl": "https://nst-sdc.github.io/NIRMAN-SUBMission-of-NST-ADYPU/shastra",
+      "id": 1,
+      "teamName": "websters",
+      "liveUrl": "https://nst-sdc.github.io/NIRMAN-SUBMission-of-NST-ADYPU/websters",
       "members": [
         {
-          "name": "vansh",
-          "email": "vanshdagar2005@gmail.com"
+          "name": "Tanush Kumar",
+          "email": "tanushkumar777@gmail.com"
         },
         {
-          "name": "Manish Balayan",
-          "email": "manishbalayan2713@gmail.com"
+          "name": "Sanjana",
+          "email": "sanju250506@gmail.com"
+        },
+        {
+          "name": "Sushant Kumar Ojha",
+          "email": "timmyojha@gmail.com"
+        },
+        {
+          "name": "Bharat Singh",
+          "email": "bharatsinghr2004@gmail.com"
         }
       ]
     },
@@ -516,25 +524,17 @@
       ]
     },
     {
-      "id": 1,
-      "teamName": "websters",
-      "liveUrl": "https://nst-sdc.github.io/NIRMAN-SUBMission-of-NST-ADYPU/websters",
+      "id": 26,
+      "teamName": "shastra",
+      "liveUrl": "https://nst-sdc.github.io/NIRMAN-SUBMission-of-NST-ADYPU/shastra",
       "members": [
         {
-          "name": "Tanush Kumar",
-          "email": "tanushkumar777@gmail.com"
+          "name": "vansh",
+          "email": "vanshdagar2005@gmail.com"
         },
         {
-          "name": "Sanjana",
-          "email": "sanju250506@gmail.com"
-        },
-        {
-          "name": "Sushant Kumar Ojha",
-          "email": "timmyojha@gmail.com"
-        },
-        {
-          "name": "Bharat Singh",
-          "email": "bharatsinghr2004@gmail.com"
+          "name": "Manish Balayan",
+          "email": "manishbalayan2713@gmail.com"
         }
       ]
     },
