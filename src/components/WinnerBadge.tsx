@@ -26,11 +26,11 @@ export function WinnerBadge({ place }: WinnerBadgeProps) {
       },
     },
     3: {
-      color: 'bg-gradient-to-r from-amber-500 to-amber-700',
-      icon: Award,
+      color: 'bg-gradient-to-r from-gray-300 to-gray-500',
+      icon: Medal,
       text: 'Runner-Up',
       animation: {
-        scale: [1, 1.05, 1],
+        y: [0, -3, 0],
       },
     },
   };
