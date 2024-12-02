@@ -1,7 +1,7 @@
 {
   "websites": [
     {
-      "id": 1,
+      "id": 26,
       "teamName": "shastra",
       "liveUrl": "https://nst-sdc.github.io/NIRMAN-SUBMission-of-NST-ADYPU/shastra",
       "members": [
@@ -516,7 +516,7 @@
       ]
     },
     {
-      "id": 26,
+      "id": 1,
       "teamName": "websters",
       "liveUrl": "https://nst-sdc.github.io/NIRMAN-SUBMission-of-NST-ADYPU/websters",
       "members": [
