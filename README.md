@@ -8,7 +8,7 @@ This project consists of two separate repositories:
 ## Technology Stack
 - **Frontend**:
   - HTML5
-  - CSS3
+  - CSS3 
   - JavaScript (ES6+)
   - Bootstrap for responsive design
 - **Version Control**: Git
