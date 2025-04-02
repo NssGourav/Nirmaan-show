@@ -64,24 +64,12 @@
     
     {
       "id": 4,
-      "teamName": "Web Trackers",
-      "liveUrl": "https://nst-sdc.github.io/NIRMAN-SUBMission-of-NST-ADYPU/Web Trackers",
+      "teamName": "3 Pixels",
+      "liveUrl": "https://nst-sdc.github.io/NIRMAN-SUBMission-of-NST-ADYPU/3-pixels---pratik-pan",
       "members": [
         {
-          "name": "AN Pavan Sai",
-          "email": "an.pavan@adypu.edu.in"
-        },
-        {
-          "name": "Bejadi Sai Rithwik",
-          "email": "sai.rithwik@adypu.edu.in"
-        },
-        {
-          "name": "Vishnu Kasireddy",
-          "email": "vishnu.k@adypu.edu.in"
-        },
-        {
-          "name": "Patel Parth Kumar",
-          "email": "patel.parthkumar@adypu.edu.in"
+          "name": "Pratik Pan",
+          "email": "pratik.pan@adypu.edu.in"
         }
       ]
     },
@@ -107,7 +95,7 @@
     {
       "id": 6,
       "teamName": "After Hours",
-      "liveUrl": "https://nst-sdc.github.io/NIRMAN-SUBMission-of-NST-ADYPU/After Hours",
+      "liveUrl": "https://nst-sdc.github.io/NIRMAN-SUBMission-of-NST-ADYPU/after-hours",
       "members": [
         {
           "name": "Harshit Agrawal",
@@ -126,30 +114,18 @@
     {
       "id": 7,
       "teamName": "Dall-E4",
-      "liveUrl": "https://nst-sdc.github.io/NIRMAN-SUBMission-of-NST-ADYPU/Dall-E4",
+      "liveUrl": "https://nst-sdc.github.io/NIRMAN-SUBMission-of-NST-ADYPU/dalle4xnirmaan---shubh-arya",
       "members": [
         {
           "name": "Shubh Arya",
           "email": "shubh.arya@adypu.edu.in"
-        },
-        {
-          "name": "Shreyas Sarkar",
-          "email": "shreyas.sarkar@adypu.edu.in"
-        },
-        {
-          "name": "Aditya Singh",
-          "email": "aditya.singh01@adypu.edu.in"
-        },
-        {
-          "name": "Priyank Gaur",
-          "email": "priyank.gaur@adypu.edu.in"
         }
       ]
     },
     {
       "id": 8,
       "teamName": "Alpha Team",
-      "liveUrl": "https://nst-sdc.github.io/NIRMAN-SUBMission-of-NST-ADYPU/Alpha Team",
+      "liveUrl": "https://nst-sdc.github.io/NIRMAN-SUBMission-of-NST-ADYPU/alpha-team",
       "members": [
         {
           "name": "Yashveer Singh",
@@ -241,23 +217,11 @@
     {
       "id": 12,
       "teamName": "404 Found",
-      "liveUrl": "https://nst-sdc.github.io/NIRMAN-SUBMission-of-NST-ADYPU/404 Found",
+      "liveUrl": "https://nst-sdc.github.io/NIRMAN-SUBMission-of-NST-ADYPU/index---yash-lahase",
       "members": [
         {
-          "name": "Yash Shriram Lahase",
+          "name": "Yash Lahase",
           "email": "yash.lahase@adypu.edu.in"
-        },
-        {
-          "name": "Garv Gogna",
-          "email": "garv.gogna@adypu.edu.in"
-        },
-        {
-          "name": "Sudip Kumar Prasad",
-          "email": "sudip.prasad@adypu.edu.in"
-        },
-        {
-          "name": "Harsil singh",
-          "email": "harsil.singh@adypu.edu.in"
         }
       ]
     },
@@ -535,12 +499,8 @@
     {
       "id": 26,
       "teamName": "shastra",
-      "liveUrl": "https://nst-sdc.github.io/NIRMAN-SUBMission-of-NST-ADYPU/shastra",
+      "liveUrl": "https://nst-sdc.github.io/NIRMAN-SUBMission-of-NST-ADYPU/shastra---manish-balayan",
       "members": [
-        {
-          "name": "vansh",
-          "email": "vanshdagar2005@gmail.com"
-        },
         {
           "name": "Manish Balayan",
           "email": "manishbalayan2713@gmail.com"
